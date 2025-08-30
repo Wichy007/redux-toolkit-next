@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "text": "Learn Redux",
+      "completed": true
+    },
+    {
+      "id": 1756390683444,
+      "text": "hello 12",
+      "completed": false
+    },
+    {
+      "id": 1756392566512,
+      "text": "1",
+      "completed": false
+    },
+    {
+      "id": 1756393085897,
+      "text": "redux!!",
+      "completed": false
+    }
+  ]
+}
